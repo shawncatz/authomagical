@@ -14,7 +14,7 @@
 
 package main
 
-import "authomagical/cmd"
+import "github.com/shawncatz/authomagical/cmd"
 
 func main() {
 	cmd.Execute()
